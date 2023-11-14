@@ -1,0 +1,5 @@
+package com.caio.dslist.entities;
+
+public class Game {
+
+}
