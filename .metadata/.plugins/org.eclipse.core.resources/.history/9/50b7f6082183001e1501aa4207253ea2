@@ -1,0 +1,5 @@
+package com.caio.dslist.dto;
+
+public class GameMinDTO {
+
+}
